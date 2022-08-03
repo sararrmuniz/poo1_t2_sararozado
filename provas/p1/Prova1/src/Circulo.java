@@ -1,10 +1,12 @@
 public class Circulo {
     private double raio;
     private double ponto_central;
+// check:<<<erro: a classe Ponto deveria ser usada para definir o 'ponto' na classe círculo >>>>
 
     public static final double PI = 3.14;
 
     public Circulo(){}
+// check:<<<erro: era esperado no segundo construtor alguma funcionalidade >>>>
 
     public Circulo(double raio, double ponto_central){
         this.raio = raio;
@@ -26,6 +28,7 @@ public class Circulo {
         this.ponto_central = ponto_central;
     }
 
+// check:<<<erro: não tem esse raio de parâmetro>>>>
     public double area(double raio){
         return PI*raio*raio;
     }

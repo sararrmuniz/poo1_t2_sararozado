@@ -30,7 +30,7 @@ public class Main {
         System.out.println("Raio=" + raio + "\nArea=" + area + " \nPerimetro=" + perimetro + "\nx=" + p1.getX() + "\ny=" + p1.getY());
         System.out.println("Ponto Central= (" + p1.getX() +"," + p1.getY() + ")");
 
-        //Circulo 2
+        //Circulo 2// check:<<<erro: foi pedido vetor de círculo>>>>
         System.out.println("\n<<<Preencha o circulo2>>>\n ");
         System.out.println("Digite o valor de x: ");
         p2.setX(entrada.nextDouble());
