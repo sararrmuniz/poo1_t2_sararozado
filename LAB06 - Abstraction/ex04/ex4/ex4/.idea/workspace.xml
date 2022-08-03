@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17feab75-eb53-418a-8e98-e2163468a138" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Amigos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FaceFriends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Familia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Trabalho.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ex02/ex2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ex02/ex2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

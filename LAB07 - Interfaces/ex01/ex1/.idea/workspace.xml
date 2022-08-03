@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e19cc17-5f76-4d7a-9cbe-cc6f0668fb54" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../ex04/ex4/ex4/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex04/ex4/ex4/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../ex04/ex4/ex4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ex04/ex4/ex4/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5d886553-d2a6-429b-a6c2-c04c710b1289" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classificador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classificavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Servico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,12 +28,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Bae2urb7wU9lBtG3nthIp183Jn" />
+  <component name="ProjectId" id="2CGP47acg4htnE3r3embHKY4th2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,14 +42,13 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;S:/UFU/GSI015-Programação Orientada a Objetos/Práticas/LAB06 - Abstraction/ex02/ex2&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="ex2" />
+      <module name="ex1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -53,11 +62,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0e19cc17-5f76-4d7a-9cbe-cc6f0668fb54" name="Changes" comment="" />
-      <created>1657148421715</created>
+      <changelist id="5d886553-d2a6-429b-a6c2-c04c710b1289" name="Changes" comment="" />
+      <created>1658425754718</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1657148421715</updated>
+      <updated>1658425754718</updated>
     </task>
     <servers />
   </component>
